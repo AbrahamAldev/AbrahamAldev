@@ -26,7 +26,8 @@ I am a Systems Engineer and Technical Founder with 8+ years of professional expe
 ### 📈 Production R&D & Core Architectures
 
 * 🔒 **Autonomous Cloud Cyberdefense System:** An enterprise-grade anomaly detection pipeline that monitors multicloud traffic in real-time and executes automated perimeter containment upon threat detection.
-* ⚙️ **Enterprise Automation Frameworks:** Designing event-driven architectures to orchestrate complex organizational workflows and secure data distribution.
+* 🍽️ **Intelligent FoodTech & IoT Ecosystem:** A distributed hospitality engine combining IoT edge automation for physical environments, GenAI conversational agents, and event-driven data pipelines for tax, billing, and supply chain optimization.
+* 📈 **Distributed Asset & Capital Management Platform:** A highly scalable platform built to orchestrate real-time inventory tracking, multi-branch data synchronization, and automated core business analytics for growing enterprises.
 
 ---
 
