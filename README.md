@@ -10,7 +10,6 @@
 
 <!-- Nivel 1: Liderazgo Oficial y Credenciales de Ecosistema -->
 [![AWS SBG Leader](https://img.shields.io/badge/AWS_SBG_Leader-@aldebaram-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://builder.aws.com/community/@aldebaram)
-[![AWS Community Builder](https://img.shields.io/badge/AWS_Community_Builder-Applicant_2026-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://community.aws)
 [![AWS SBG ONMEX](https://img.shields.io/badge/Community-AWS_SBG_ONMEX-232F3E?style=for-the-badge&logo=amazon&logoColor=FF9900)](https://beacons.ai/awsonmex)
 [![Founder Iztack](https://img.shields.io/badge/Founder-Iztack-6366F1?style=for-the-badge)](https://iztack.com)
 
@@ -71,10 +70,10 @@ Currently, I serve as:
 
 ---
 
-### 🎯 Current Milestones & Community Leadership
+### 🎯 Current Milestones & Community Goals
 
-* 🌟 **AWS Community Builder Applicant 2026:** Expanding active community contributions, open-source blueprints, and bilingual technical literature for builders across Latin America.
-* 🎓 **Community Mentorship at AWS SBG ONMEX:** Leading workshops and hackathons focused on cloud fundamentals, IaC adoption, and cloud security.
+* 🌟 **Community Leadership & Mentorship:** Expanding active hands-on workshops, hackathons, and open-source blueprints through AWS SBG at ONMEX University.
+* 🚀 **2027 Ecosystem Goal:** Producing rigorous bilingual architecture literature, reproducible CDK blueprints, and production-tested patterns targeting the **AWS Community Builder 2027** cohort.
 * 🔏 **Continuous Validation:** Active certification roadmap validating deep production infrastructure expertise (**AWS Certified Solutions Architect** & **Google Cloud Professional Cloud Architect**).
 
 ---
