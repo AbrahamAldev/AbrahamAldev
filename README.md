@@ -55,9 +55,9 @@ Currently, I serve as:
 
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **Cloud Platforms** | AWS (Lambda, EventBridge, DynamoDB, ECS Fargate, S3, CloudTrail, Bedrock) • Google Cloud (Compute Engine, Cloud Run, BigQuery) |
+| **Cloud Platforms** | AWS (Lambda, EventBridge, DynamoDB, AppSync, Cognito, Amplify Gen 2, ECS Fargate, S3, CloudTrail, Bedrock) • Google Cloud (Compute Engine, Cloud Run, BigQuery) |
 | **Infrastructure as Code (IaC)** | AWS CDK v2 (TypeScript / Python) • Terraform • AWS CloudFormation |
-| **AI, GenAI & LLMOps** | Multi-Agent Systems • Amazon Bedrock • LangChain / LlamaIndex • RAG Architecture • Vector Stores • Isolation Forest |
+| **AI, GenAI & LLMOps** | Multi-Agent Systems • Amazon Bedrock • Strands Agents • LangChain / LlamaIndex • RAG Architecture • Vector Stores • Isolation Forest |
 | **Engineering & Architecture** | Event-Driven Architecture (EDA) • Microservices • Distributed Systems • Python • TypeScript • Node.js • REST / GraphQL APIs |
 
 ---
@@ -67,6 +67,12 @@ Currently, I serve as:
 * 🔒 **Autonomous Cloud Cyberdefense System:** An enterprise-grade anomaly detection pipeline that monitors multicloud telemetry in real-time and executes automated perimeter containment upon threat detection.
 * 🍽️ **Intelligent FoodTech & IoT Ecosystem:** A distributed hospitality engine combining IoT edge automation for physical environments, GenAI conversational agents, and event-driven data pipelines for tax, billing, and supply chain optimization.
 * 📊 **Distributed Asset & Capital Management Platform:** A highly scalable platform built to orchestrate real-time inventory tracking, multi-branch data synchronization, and automated core business analytics.
+
+---
+
+### 🧪 Personal Projects
+
+* 🐜 **Hormiga — Smart Expense Tracker with AI Coach:** A React + Vite web app on AWS Amplify Gen 2 (Cognito, AppSync, DynamoDB). It detects "ant expenses" (small, recurring spending) and converts them into annual cost and working hours. An AI coach built on Strands Agents and Amazon Bedrock (Nova) reasons over deterministic calculations rather than doing the math itself. Private repository for now.
 
 ---
 
