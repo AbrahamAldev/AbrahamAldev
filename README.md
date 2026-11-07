@@ -72,7 +72,7 @@ Currently, I serve as:
 
 ### 🧪 Personal Projects
 
-* 🐜 **Hormiga — Smart Expense Tracker with AI Coach:** A React + Vite web app on AWS Amplify Gen 2 (Cognito, AppSync, DynamoDB). It detects "ant expenses" (small, recurring spending) and converts them into annual cost and working hours. An AI coach built on Strands Agents and Amazon Bedrock (Nova) reasons over deterministic calculations rather than doing the math itself. Private repository for now.
+* 🐜 **[Gastos Hormiga](https://github.com/AbrahamAldev/gastos-hormiga-app) — Smart Expense Tracker with AI Coach:** A React + Vite web app on AWS Amplify Gen 2 (Cognito, AppSync, DynamoDB). It detects "ant expenses" (small, recurring spending) and converts them into annual cost and working hours. An AI coach built on Strands Agents reasons over deterministic calculations rather than doing the math itself, and runs on Amazon Bedrock or any OpenAI-compatible provider (OpenRouter, Gemini, Ollama). Deployable to your own AWS account with Amplify.
 
 ---
 
